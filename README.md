@@ -25,7 +25,7 @@ Flexbox proved to be an incredibly powerful tool for structuring the layout, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://kaique-nevesp.github.io/blog-preview-card-main-challenge/)
 
 ## My process
 
